@@ -5,6 +5,7 @@
 # MicroPython code for pushButton software debouncing
 # generic implementation
 # only tested on ESP8266 Amica and Lolin NodeMCU
+# MicroPython v1.11-8-g48dcbbe60 on 2019-05-29
 #
 # https://github.com/mekanixms/micro-python-pushButton.git
 
